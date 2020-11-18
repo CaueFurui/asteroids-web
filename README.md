@@ -1,5 +1,7 @@
 # Asteroids Game
 
+![](./assets/readme.gif)
+
 Asteroids Game (1979), was a game maded by Atari. The objective of the game is to destroy asteroids without being hit by their fragments.
 
 ## Technology
