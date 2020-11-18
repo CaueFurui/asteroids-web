@@ -23,3 +23,4 @@ This game was made based on this [tutorial](https://www.youtube.com/watch?v=H9CS
 
 ## ENJOY THE RIDE :smile:
 
+Made with :heart: by [CaueFurui](https://www.github.com/CaueFurui)
